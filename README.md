@@ -32,3 +32,5 @@ export default {
 ```
 ### doc & demos
 [click here](https://jacques33.github.io/vue-horizontal-calendar/).
+
+### [Merge from upstream](https://github.com/dewdad/vue-horizontal-calendar/compare/master...jacques33:master)
